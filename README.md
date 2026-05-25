@@ -68,7 +68,7 @@ The extraction process became:
 
 ---
 
-# Recovered Flags
+# Flags
 
 ## sample_1.pcap
 
